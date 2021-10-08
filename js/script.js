@@ -37,7 +37,7 @@
 //    if (a <= 1 && b >= 3) {
 //     alert(a + b);
 //  } else {
-//     alert(a - 10);
+//     alert(a - b);
 //  };
 
 // let a = +prompt(`Введите  первое число:`);
